@@ -1,2 +1,2 @@
-# da-thing
-Webpage showing stuff I made
+# Website stuff
+Webpage thing
